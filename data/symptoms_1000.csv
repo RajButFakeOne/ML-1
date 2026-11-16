@@ -1,0 +1,1001 @@
+id,symptom,category,specialty
+1,Allergy follow-up,Allergy & Blood,Medicine
+2,Bleeding gums with bruising,Allergy & Blood,Medicine
+3,Bleeding that won't stop,Allergy & Blood,Medicine
+4,Blood donation advice,Allergy & Blood,Medicine
+5,Blood test review,Allergy & Blood,Medicine
+6,CBC report review,Allergy & Blood,Medicine
+7,Drug allergy,Allergy & Blood,Medicine
+8,Dust allergy symptoms,Allergy & Blood,Medicine
+9,Easy bruising,Allergy & Blood,Medicine
+10,Food allergy,Allergy & Blood,Medicine
+11,Frequent infections,Allergy & Blood,Medicine
+12,Heavy bleeding with cuts,Allergy & Blood,Medicine
+13,Hives after food,Allergy & Blood,Medicine
+14,Itching after medicine,Allergy & Blood,Medicine
+15,Low platelets,Allergy & Blood,Medicine
+16,Medicine reaction,Allergy & Blood,Medicine
+17,Nosebleed with bruising,Allergy & Blood,Medicine
+18,Spleen pain,Allergy & Blood,Medicine
+19,Swelling after food,Allergy & Blood,Medicine
+20,Swollen lymph glands,Allergy & Blood,Medicine
+21,Thalassemia follow-up,Allergy & Blood,Medicine
+22,Ankle injury,Bones & Joints,Orthopedics
+23,Ankle pain,Bones & Joints,Orthopedics
+24,Ankle pain at night,Bones & Joints,Orthopedics
+25,Ankle swelling,Bones & Joints,Orthopedics
+26,Arm pain,Bones & Joints,Orthopedics
+27,Arm stiffness,Bones & Joints,Orthopedics
+28,Arthritis follow-up,Bones & Joints,Orthopedics
+29,Arthritis pain,Bones & Joints,Orthopedics
+30,Back injury,Bones & Joints,Orthopedics
+31,Back pain after lifting,Bones & Joints,Orthopedics
+32,Back pain at night,Bones & Joints,Orthopedics
+33,Back pain for 2 days,Bones & Joints,Orthopedics
+34,Back pain for 2 weeks,Bones & Joints,Orthopedics
+35,Back pain for a month,Bones & Joints,Orthopedics
+36,Back pain since last night,Bones & Joints,Orthopedics
+37,Back pain since morning,Bones & Joints,Orthopedics
+38,Back pain while bending,Bones & Joints,Orthopedics
+39,Back pain while sitting,Bones & Joints,Orthopedics
+40,Back spasm,Bones & Joints,Orthopedics
+41,Big toe pain,Bones & Joints,Orthopedics
+42,Bone pain,Bones & Joints,Orthopedics
+43,Bone swelling,Bones & Joints,Orthopedics
+44,Bow legs in child,Bones & Joints,Orthopedics
+45,Calf stiffness,Bones & Joints,Orthopedics
+46,Calf swelling,Bones & Joints,Orthopedics
+47,Cast removal,Bones & Joints,Orthopedics
+48,Cervical pain,Bones & Joints,Orthopedics
+49,Cervical spondylosis,Bones & Joints,Orthopedics
+50,Disc pain,Bones & Joints,Orthopedics
+51,Dropping objects,Bones & Joints,Orthopedics
+52,Elbow pain,Bones & Joints,Orthopedics
+53,Elbow pain at night,Bones & Joints,Orthopedics
+54,Elbow stiffness,Bones & Joints,Orthopedics
+55,Elbow swelling,Bones & Joints,Orthopedics
+56,Finger joint pain,Bones & Joints,Orthopedics
+57,Foot stiffness,Bones & Joints,Orthopedics
+58,Fracture follow-up,Bones & Joints,Orthopedics
+59,Frozen shoulder,Bones & Joints,Orthopedics
+60,Gout pain,Bones & Joints,Orthopedics
+61,Gym injury,Bones & Joints,Orthopedics
+62,Hand pain,Bones & Joints,Orthopedics
+63,Heel pain,Bones & Joints,Orthopedics
+64,Heel spur,Bones & Joints,Orthopedics
+65,Heel stiffness,Bones & Joints,Orthopedics
+66,Heel swelling,Bones & Joints,Orthopedics
+67,Hip swelling,Bones & Joints,Orthopedics
+68,Joint pain,Bones & Joints,Orthopedics
+69,Joint pain for 2 weeks,Bones & Joints,Orthopedics
+70,Joint pain for 3 days,Bones & Joints,Orthopedics
+71,Joint pain for a week,Bones & Joints,Orthopedics
+72,Joint stiffness in morning,Bones & Joints,Orthopedics
+73,Joint swelling,Bones & Joints,Orthopedics
+74,Knee locking,Bones & Joints,Orthopedics
+75,Knee pain at night,Bones & Joints,Orthopedics
+76,Knee pain for 2 days,Bones & Joints,Orthopedics
+77,Knee pain for 3 days,Bones & Joints,Orthopedics
+78,Knee pain for a week,Bones & Joints,Orthopedics
+79,Knee pain since last night,Bones & Joints,Orthopedics
+80,Knee pain since morning,Bones & Joints,Orthopedics
+81,Knock knees in child,Bones & Joints,Orthopedics
+82,Left heel pain,Bones & Joints,Orthopedics
+83,Left hip pain,Bones & Joints,Orthopedics
+84,Left knee pain,Bones & Joints,Orthopedics
+85,Left shoulder pain,Bones & Joints,Orthopedics
+86,Left wrist pain,Bones & Joints,Orthopedics
+87,Leg pain,Bones & Joints,Orthopedics
+88,Leg stiffness,Bones & Joints,Orthopedics
+89,Limping,Bones & Joints,Orthopedics
+90,Limping in child,Bones & Joints,Orthopedics
+91,Lower back stiffness,Bones & Joints,Orthopedics
+92,Multiple joint pain,Bones & Joints,Orthopedics
+93,Muscle pain,Bones & Joints,Orthopedics
+94,Muscle spasm,Bones & Joints,Orthopedics
+95,Muscle strain,Bones & Joints,Orthopedics
+96,Neck injury,Bones & Joints,Orthopedics
+97,Neck pain,Bones & Joints,Orthopedics
+98,Neck pain for 3 days,Bones & Joints,Orthopedics
+99,Neck pain for a month,Bones & Joints,Orthopedics
+100,Neck pain for a week,Bones & Joints,Orthopedics
+101,Neck pain since morning,Bones & Joints,Orthopedics
+102,Osteoporosis check,Bones & Joints,Orthopedics
+103,Pain in ankle after fall,Bones & Joints,Orthopedics
+104,Pain in ankle on movement,Bones & Joints,Orthopedics
+105,Pain in back after fall,Bones & Joints,Orthopedics
+106,Pain in back on movement,Bones & Joints,Orthopedics
+107,Pain in elbow on movement,Bones & Joints,Orthopedics
+108,Pain in hip,Bones & Joints,Orthopedics
+109,Pain in knee after fall,Bones & Joints,Orthopedics
+110,Pain in knee on movement,Bones & Joints,Orthopedics
+111,Pain in neck after fall,Bones & Joints,Orthopedics
+112,Pain in neck on movement,Bones & Joints,Orthopedics
+113,Pain in shoulder after fall,Bones & Joints,Orthopedics
+114,Pain in shoulder on movement,Bones & Joints,Orthopedics
+115,Pain in wrist after fall,Bones & Joints,Orthopedics
+116,Pain in wrist on movement,Bones & Joints,Orthopedics
+117,Pain with leg radiation,Bones & Joints,Orthopedics
+118,Plaster check,Bones & Joints,Orthopedics
+119,Posture problem,Bones & Joints,Orthopedics
+120,Pulled muscle,Bones & Joints,Orthopedics
+121,Right ankle pain,Bones & Joints,Orthopedics
+122,Right elbow pain,Bones & Joints,Orthopedics
+123,Right heel pain,Bones & Joints,Orthopedics
+124,Right hip pain,Bones & Joints,Orthopedics
+125,Right knee pain,Bones & Joints,Orthopedics
+126,Right shoulder pain,Bones & Joints,Orthopedics
+127,Right wrist pain,Bones & Joints,Orthopedics
+128,Road accident injury,Bones & Joints,Orthopedics
+129,Shoulder injury,Bones & Joints,Orthopedics
+130,Shoulder pain,Bones & Joints,Orthopedics
+131,Shoulder stiffness,Bones & Joints,Orthopedics
+132,Slipped disc,Bones & Joints,Orthopedics
+133,Sports injury,Bones & Joints,Orthopedics
+134,Suspected fracture,Bones & Joints,Orthopedics
+135,Tennis elbow,Bones & Joints,Orthopedics
+136,Thigh pain,Bones & Joints,Orthopedics
+137,Thigh stiffness,Bones & Joints,Orthopedics
+138,Thigh swelling,Bones & Joints,Orthopedics
+139,Toe joint pain,Bones & Joints,Orthopedics
+140,Trigger finger,Bones & Joints,Orthopedics
+141,Upper back pain,Bones & Joints,Orthopedics
+142,Upper back stiffness,Bones & Joints,Orthopedics
+143,Upper back swelling,Bones & Joints,Orthopedics
+144,Walking difficulty after fall,Bones & Joints,Orthopedics
+145,Whiplash,Bones & Joints,Orthopedics
+146,Wrist pain,Bones & Joints,Orthopedics
+147,Wrist pain at night,Bones & Joints,Orthopedics
+148,Alcohol advice,Check-up & Advice,Medicine
+149,Cancer screening advice,Check-up & Advice,Medicine
+150,Child health check,Check-up & Advice,Medicine
+151,Cholesterol check-up,Check-up & Advice,Medicine
+152,Dental screening,Check-up & Advice,Medicine
+153,Diabetes screening,Check-up & Advice,Medicine
+154,Exercise advice,Check-up & Advice,Medicine
+155,Gym fitness advice,Check-up & Advice,Medicine
+156,Hajj vaccination,Check-up & Advice,Medicine
+157,Healthy lifestyle advice,Check-up & Advice,Medicine
+158,Hearing screening,Check-up & Advice,Medicine
+159,Heart screening,Check-up & Advice,Medicine
+160,Liver check-up,Check-up & Advice,Medicine
+161,Men's health check,Check-up & Advice,Medicine
+162,Menopause advice,Check-up & Advice,Medicine
+163,Pre-marriage check-up,Check-up & Advice,Medicine
+164,Pre-surgery check-up,Check-up & Advice,Medicine
+165,Pre-travel check-up,Check-up & Advice,Medicine
+166,Pregnancy planning advice,Check-up & Advice,Medicine
+167,Quit smoking advice,Check-up & Advice,Medicine
+168,School medical certificate,Check-up & Advice,Medicine
+169,Sick leave certificate,Check-up & Advice,Medicine
+170,Sleep advice,Check-up & Advice,Medicine
+171,Stress management advice,Check-up & Advice,Medicine
+172,Thyroid check,Check-up & Advice,Medicine
+173,Visa medical check,Check-up & Advice,Medicine
+174,Vitamin check,Check-up & Advice,Medicine
+175,Women's health check,Check-up & Advice,Medicine
+176,Adolescent health advice,Child Health,Pediatrics
+177,Baby colic,Child Health,Pediatrics
+178,Baby fever,Child Health,Pediatrics
+179,Baby jaundice,Child Health,Pediatrics
+180,Baby not sleeping,Child Health,Pediatrics
+181,Baby vaccination,Child Health,Pediatrics
+182,Breastfeeding advice,Child Health,Pediatrics
+183,Child allergy,Child Health,Pediatrics
+184,Child anemia,Child Health,Pediatrics
+185,Child asthma,Child Health,Pediatrics
+186,Child burn,Child Health,Pediatrics
+187,Child chickenpox,Child Health,Pediatrics
+188,Child constipation,Child Health,Pediatrics
+189,Child convulsions,Child Health,Pediatrics
+190,Child dehydration,Child Health,Pediatrics
+191,Child diarrhea,Child Health,Pediatrics
+192,Child eczema,Child Health,Pediatrics
+193,Child fall injury,Child Health,Pediatrics
+194,Child fever,Child Health,Pediatrics
+195,Child food allergy,Child Health,Pediatrics
+196,Child headache,Child Health,Pediatrics
+197,Child hearing check,Child Health,Pediatrics
+198,Child hyperactivity,Child Health,Pediatrics
+199,Child jaundice,Child Health,Pediatrics
+200,Child lice,Child Health,Pediatrics
+201,Child measles,Child Health,Pediatrics
+202,Child mouth ulcers,Child Health,Pediatrics
+203,Child night terrors,Child Health,Pediatrics
+204,Child not eating,Child Health,Pediatrics
+205,Child overweight,Child Health,Pediatrics
+206,Child rash,Child Health,Pediatrics
+207,Child runny nose,Child Health,Pediatrics
+208,Child short height,Child Health,Pediatrics
+209,Child snoring,Child Health,Pediatrics
+210,Child stomach pain,Child Health,Pediatrics
+211,Child swallowed object,Child Health,Pediatrics
+212,Child tantrums,Child Health,Pediatrics
+213,Child tonsillitis,Child Health,Pediatrics
+214,Child underweight,Child Health,Pediatrics
+215,Child vaccination,Child Health,Pediatrics
+216,Child vision check,Child Health,Pediatrics
+217,Child vomiting,Child Health,Pediatrics
+218,Child wheezing,Child Health,Pediatrics
+219,Child worm infection,Child Health,Pediatrics
+220,Delayed talking,Child Health,Pediatrics
+221,Early puberty concern,Child Health,Pediatrics
+222,Febrile seizure,Child Health,Pediatrics
+223,Formula feeding advice,Child Health,Pediatrics
+224,Late puberty concern,Child Health,Pediatrics
+225,Newborn check-up,Child Health,Pediatrics
+226,Newborn feeding problem,Child Health,Pediatrics
+227,Newborn fever,Child Health,Pediatrics
+228,Newborn jaundice,Child Health,Pediatrics
+229,Stammering,Child Health,Pediatrics
+230,Teen growth concern,Child Health,Pediatrics
+231,Teen mood problem,Child Health,Pediatrics
+232,Vaccine reaction,Child Health,Pediatrics
+233,Vaccine schedule advice,Child Health,Pediatrics
+234,Weaning advice,Child Health,Pediatrics
+235,Bad breath from mouth,Dental,Dentistry
+236,Bleeding after extraction,Dental,Dentistry
+237,Bleeding gums,Dental,Dentistry
+238,Braces adjustment,Dental,Dentistry
+239,Braces advice,Dental,Dentistry
+240,Broken tooth,Dental,Dentistry
+241,Burning tongue,Dental,Dentistry
+242,Cavity,Dental,Dentistry
+243,Child dental check-up,Dental,Dentistry
+244,Chipped tooth,Dental,Dentistry
+245,Cracked tooth,Dental,Dentistry
+246,Crooked teeth,Dental,Dentistry
+247,Dental check-up,Dental,Dentistry
+248,Dental x-ray advice,Dental,Dentistry
+249,Denture fitting,Dental,Dentistry
+250,Denture problem,Dental,Dentistry
+251,Dry socket pain,Dental,Dentistry
+252,Filling fell out,Dental,Dentistry
+253,Gap between teeth,Dental,Dentistry
+254,Gum infection,Dental,Dentistry
+255,Jaw locking,Dental,Dentistry
+256,Jaw pain,Dental,Dentistry
+257,Lip sores,Dental,Dentistry
+258,Loose tooth,Dental,Dentistry
+259,Mouth ulcer,Dental,Dentistry
+260,Pain after extraction,Dental,Dentistry
+261,Painful mouth ulcer,Dental,Dentistry
+262,Receding gums,Dental,Dentistry
+263,Root canal,Dental,Dentistry
+264,Root canal follow-up,Dental,Dentistry
+265,Sensitivity to cold,Dental,Dentistry
+266,Sensitivity to hot,Dental,Dentistry
+267,Swollen gums,Dental,Dentistry
+268,Teeth cleaning,Dental,Dentistry
+269,Teeth grinding,Dental,Dentistry
+270,Teething pain,Dental,Dentistry
+271,Tongue coating,Dental,Dentistry
+272,Tooth abscess,Dental,Dentistry
+273,Tooth decay,Dental,Dentistry
+274,Tooth discoloration,Dental,Dentistry
+275,Tooth extraction,Dental,Dentistry
+276,Tooth sensitivity,Dental,Dentistry
+277,Toothache,Dental,Dentistry
+278,Toothache for 2 weeks,Dental,Dentistry
+279,Toothache for a month,Dental,Dentistry
+280,Toothache for a week,Dental,Dentistry
+281,Toothache since morning,Dental,Dentistry
+282,Wisdom tooth pain,Dental,Dentistry
+283,Anemia,Diabetes & Hormones,Endocrinology
+284,Belly fat advice,Diabetes & Hormones,Endocrinology
+285,Blurred vision with diabetes,Diabetes & Hormones,Endocrinology
+286,Burning feet with diabetes,Diabetes & Hormones,Endocrinology
+287,Calcium deficiency,Diabetes & Hormones,Endocrinology
+288,Cholesterol advice,Diabetes & Hormones,Endocrinology
+289,Delayed puberty,Diabetes & Hormones,Endocrinology
+290,Diabetic foot care,Diabetes & Hormones,Endocrinology
+291,Diet advice,Diabetes & Hormones,Endocrinology
+292,Excess hunger,Diabetes & Hormones,Endocrinology
+293,Excess sweating with weight loss,Diabetes & Hormones,Endocrinology
+294,Fatty liver with diabetes,Diabetes & Hormones,Endocrinology
+295,Feeling hot always,Diabetes & Hormones,Endocrinology
+296,Frequent thirst,Diabetes & Hormones,Endocrinology
+297,Frequent urination with thirst,Diabetes & Hormones,Endocrinology
+298,Gestational diabetes,Diabetes & Hormones,Endocrinology
+299,Gout follow-up,Diabetes & Hormones,Endocrinology
+300,Growth hormone concern,Diabetes & Hormones,Endocrinology
+301,Hair loss with thyroid,Diabetes & Hormones,Endocrinology
+302,HbA1c review,Diabetes & Hormones,Endocrinology
+303,High blood sugar,Diabetes & Hormones,Endocrinology
+304,High uric acid,Diabetes & Hormones,Endocrinology
+305,Hormone problem,Diabetes & Hormones,Endocrinology
+306,Hypothyroid symptoms,Diabetes & Hormones,Endocrinology
+307,Insulin advice,Diabetes & Hormones,Endocrinology
+308,Iron deficiency,Diabetes & Hormones,Endocrinology
+309,Low blood sugar,Diabetes & Hormones,Endocrinology
+310,Metabolic syndrome advice,Diabetes & Hormones,Endocrinology
+311,Neck swelling thyroid,Diabetes & Hormones,Endocrinology
+312,Numb feet with diabetes,Diabetes & Hormones,Endocrinology
+313,Obesity advice,Diabetes & Hormones,Endocrinology
+314,Palpitations with thyroid,Diabetes & Hormones,Endocrinology
+315,Prediabetes advice,Diabetes & Hormones,Endocrinology
+316,Short stature,Diabetes & Hormones,Endocrinology
+317,Slow healing wounds,Diabetes & Hormones,Endocrinology
+318,Sugar report review,Diabetes & Hormones,Endocrinology
+319,Thyroid check-up,Diabetes & Hormones,Endocrinology
+320,Thyroid follow-up,Diabetes & Hormones,Endocrinology
+321,Thyroid problem,Diabetes & Hormones,Endocrinology
+322,Vitamin B12 deficiency,Diabetes & Hormones,Endocrinology
+323,Weight gain advice,Diabetes & Hormones,Endocrinology
+324,Weight loss advice,Diabetes & Hormones,Endocrinology
+325,Alternating constipation and loose motion,Digestive,Gastroenterology
+326,Anal itching,Digestive,Gastroenterology
+327,Anal pain,Digestive,Gastroenterology
+328,Appendix pain,Digestive,Gastroenterology
+329,Baby spitting up,Digestive,Gastroenterology
+330,Belly button pain,Digestive,Gastroenterology
+331,Black stool,Digestive,Gastroenterology
+332,Bloated stomach,Digestive,Gastroenterology
+333,Bloating,Digestive,Gastroenterology
+334,Burning in chest after meals,Digestive,Gastroenterology
+335,Burning stomach,Digestive,Gastroenterology
+336,Colic in baby,Digestive,Gastroenterology
+337,Colonoscopy advice,Digestive,Gastroenterology
+338,Constipation,Digestive,Gastroenterology
+339,Dark urine with yellow eyes,Digestive,Gastroenterology
+340,Diarrhea,Digestive,Gastroenterology
+341,Diarrhea for 3 days,Digestive,Gastroenterology
+342,Diarrhea in child,Digestive,Gastroenterology
+343,Diarrhea with fever,Digestive,Gastroenterology
+344,Endoscopy follow-up,Digestive,Gastroenterology
+345,Feeling full quickly,Digestive,Gastroenterology
+346,Fissure pain,Digestive,Gastroenterology
+347,Food intolerance,Digestive,Gastroenterology
+348,Food stuck in chest,Digestive,Gastroenterology
+349,Frequent stools,Digestive,Gastroenterology
+350,Gastric pain,Digestive,Gastroenterology
+351,Gastric problem,Digestive,Gastroenterology
+352,Gastritis symptoms,Digestive,Gastroenterology
+353,Heartburn,Digestive,Gastroenterology
+354,Hepatitis symptoms,Digestive,Gastroenterology
+355,Hernia pain,Digestive,Gastroenterology
+356,IBS symptoms,Digestive,Gastroenterology
+357,Incomplete bowel emptying,Digestive,Gastroenterology
+358,Indigestion,Digestive,Gastroenterology
+359,Jaundice with itching,Digestive,Gastroenterology
+360,Lactose intolerance,Digestive,Gastroenterology
+361,Liver test review,Digestive,Gastroenterology
+362,Loose motion for 2 days,Digestive,Gastroenterology
+363,Loose motion since last night,Digestive,Gastroenterology
+364,Loose motion since morning,Digestive,Gastroenterology
+365,Mucus in stool,Digestive,Gastroenterology
+366,Nausea,Digestive,Gastroenterology
+367,Nausea with dizziness,Digestive,Gastroenterology
+368,Pain after eating,Digestive,Gastroenterology
+369,Pain before meals,Digestive,Gastroenterology
+370,Painful stool,Digestive,Gastroenterology
+371,Piles,Digestive,Gastroenterology
+372,Piles bleeding,Digestive,Gastroenterology
+373,Poor digestion,Digestive,Gastroenterology
+374,Rectal pain,Digestive,Gastroenterology
+375,Repeated vomiting,Digestive,Gastroenterology
+376,Right lower abdominal pain,Digestive,Gastroenterology
+377,Stomach pain,Digestive,Gastroenterology
+378,Stomach pain for a month,Digestive,Gastroenterology
+379,Stomach pain for a week,Digestive,Gastroenterology
+380,Stomach pain since last night,Digestive,Gastroenterology
+381,Stomach pain since morning,Digestive,Gastroenterology
+382,Stomach pain since yesterday,Digestive,Gastroenterology
+383,Stomach ulcer symptoms,Digestive,Gastroenterology
+384,Stomach upset,Digestive,Gastroenterology
+385,Swallowing food pain,Digestive,Gastroenterology
+386,Swelling near anus,Digestive,Gastroenterology
+387,Ulcer pain,Digestive,Gastroenterology
+388,Upper stomach pain,Digestive,Gastroenterology
+389,Vomiting,Digestive,Gastroenterology
+390,Vomiting blood,Digestive,Gastroenterology
+391,Vomiting in child,Digestive,Gastroenterology
+392,Vomiting since yesterday,Digestive,Gastroenterology
+393,Watery stool,Digestive,Gastroenterology
+394,Worm infection,Digestive,Gastroenterology
+395,Worms in child,Digestive,Gastroenterology
+396,Worms in stool,Digestive,Gastroenterology
+397,Bad breath,ENT,ENT
+398,Balance problem,ENT,ENT
+399,Cold and cough,ENT,ENT
+400,Common cold,ENT,ENT
+401,Difficulty swallowing,ENT,ENT
+402,Ear blockage,ENT,ENT
+403,Ear discharge,ENT,ENT
+404,Ear fullness,ENT,ENT
+405,Ear pain,ENT,ENT
+406,Ear pain for 2 days,ENT,ENT
+407,Ear pain for 3 days,ENT,ENT
+408,Ear pain since yesterday,ENT,ENT
+409,Ear wax blockage,ENT,ENT
+410,Earache in child,ENT,ENT
+411,Facial pressure,ENT,ENT
+412,Feeling of food stuck,ENT,ENT
+413,Foreign object in ear,ENT,ENT
+414,Frequent colds,ENT,ENT
+415,Frequent nosebleeds,ENT,ENT
+416,Itchy ear,ENT,ENT
+417,Mouth breathing,ENT,ENT
+418,Mouth sores,ENT,ENT
+419,Nasal congestion,ENT,ENT
+420,Neck lump,ENT,ENT
+421,Nose bleeding,ENT,ENT
+422,Painful swallowing,ENT,ENT
+423,Post-nasal drip,ENT,ENT
+424,Reduced hearing,ENT,ENT
+425,Reduced smell,ENT,ENT
+426,Runny nose,ENT,ENT
+427,Scratchy throat,ENT,ENT
+428,Sinus headache,ENT,ENT
+429,Sinus pain,ENT,ENT
+430,Sinusitis,ENT,ENT
+431,Snoring in child,ENT,ENT
+432,Sore throat,ENT,ENT
+433,Sore throat since yesterday,ENT,ENT
+434,Spinning sensation,ENT,ENT
+435,Stuffy nose,ENT,ENT
+436,Swollen tonsils,ENT,ENT
+437,Throat infection,ENT,ENT
+438,Throat irritation,ENT,ENT
+439,Throat pain,ENT,ENT
+440,Thyroid swelling,ENT,ENT
+441,Tongue pain,ENT,ENT
+442,Tongue ulcer,ENT,ENT
+443,Tonsil pain,ENT,ENT
+444,Vertigo,ENT,ENT
+445,Voice change,ENT,ENT
+446,Voice loss,ENT,ENT
+447,Water in ear,ENT,ENT
+448,Alzheimer's follow-up,Elderly Care,Medicine
+449,Bed-ridden patient care,Elderly Care,Medicine
+450,Dementia follow-up,Elderly Care,Medicine
+451,Elderly back pain,Elderly Care,Medicine
+452,Elderly bedsores,Elderly Care,Medicine
+453,Elderly check-up,Elderly Care,Medicine
+454,Elderly constipation,Elderly Care,Medicine
+455,Elderly dizziness,Elderly Care,Medicine
+456,Elderly hearing loss,Elderly Care,Medicine
+457,Elderly joint pain,Elderly Care,Medicine
+458,Elderly leg swelling,Elderly Care,Medicine
+459,Elderly medicine review,Elderly Care,Medicine
+460,Elderly poor appetite,Elderly Care,Medicine
+461,Elderly pressure sore,Elderly Care,Medicine
+462,Elderly sleep problem,Elderly Care,Medicine
+463,Elderly urine problem,Elderly Care,Medicine
+464,Elderly vision problem,Elderly Care,Medicine
+465,Elderly weakness,Elderly Care,Medicine
+466,Elderly weight loss,Elderly Care,Medicine
+467,Home care advice,Elderly Care,Medicine
+468,Loneliness in elderly,Elderly Care,Medicine
+469,Palliative care advice,Elderly Care,Medicine
+470,Parkinson's check,Elderly Care,Medicine
+471,Shaking hands in old age,Elderly Care,Medicine
+472,Swallowing problem in elderly,Elderly Care,Medicine
+473,Blurred vision at night,Eye,Ophthalmology
+474,Blurry vision,Eye,Ophthalmology
+475,Burning eyes,Eye,Ophthalmology
+476,Cataract symptoms,Eye,Ophthalmology
+477,Child eye test,Eye,Ophthalmology
+478,Color blindness test,Eye,Ophthalmology
+479,Contact lens problem,Eye,Ophthalmology
+480,Diabetic eye check,Eye,Ophthalmology
+481,Double vision,Eye,Ophthalmology
+482,Drooping eyelid,Eye,Ophthalmology
+483,Dust in eye,Eye,Ophthalmology
+484,Eye allergy,Eye,Ophthalmology
+485,Eye infection,Eye,Ophthalmology
+486,Eye injury,Eye,Ophthalmology
+487,Eye pain,Eye,Ophthalmology
+488,Eye pain for 2 days,Eye,Ophthalmology
+489,Eye pain since last night,Eye,Ophthalmology
+490,Eye pressure,Eye,Ophthalmology
+491,Eye redness with pain,Eye,Ophthalmology
+492,Eye strain,Eye,Ophthalmology
+493,Eye strain from screen,Eye,Ophthalmology
+494,Eye test,Eye,Ophthalmology
+495,Eye trauma,Eye,Ophthalmology
+496,Eye twitching,Eye,Ophthalmology
+497,Eyelash problem,Eye,Ophthalmology
+498,Eyelid lump,Eye,Ophthalmology
+499,Floaters,Eye,Ophthalmology
+500,Foreign body in eye,Eye,Ophthalmology
+501,Glare at night,Eye,Ophthalmology
+502,Glaucoma check,Eye,Ophthalmology
+503,Gradual vision loss,Eye,Ophthalmology
+504,Headache with eye strain,Eye,Ophthalmology
+505,Itchy eyelids,Eye,Ophthalmology
+506,Itchy eyes,Eye,Ophthalmology
+507,Light sensitivity,Eye,Ophthalmology
+508,Need glasses,Eye,Ophthalmology
+509,Pink eye,Eye,Ophthalmology
+510,Poor vision,Eye,Ophthalmology
+511,Red eye,Eye,Ophthalmology
+512,Red eyes,Eye,Ophthalmology
+513,Retina check,Eye,Ophthalmology
+514,Sore eyes,Eye,Ophthalmology
+515,Squint,Eye,Ophthalmology
+516,Stye,Eye,Ophthalmology
+517,Sudden vision loss,Eye,Ophthalmology
+518,Swollen eye,Eye,Ophthalmology
+519,Tunnel vision,Eye,Ophthalmology
+520,Vision change,Eye,Ophthalmology
+521,Watery eyes,Eye,Ophthalmology
+522,Allergic reaction,General,Medicine
+523,Always feeling sleepy,General,Medicine
+524,Annual check-up,General,Medicine
+525,Body ache,General,Medicine
+526,Burn injury,General,Medicine
+527,COVID symptoms,General,Medicine
+528,Cat scratch,General,Medicine
+529,Chills,General,Medicine
+530,Dengue symptoms,General,Medicine
+531,Dizziness for 2 weeks,General,Medicine
+532,Dizziness since last night,General,Medicine
+533,Dog bite,General,Medicine
+534,Executive health check,General,Medicine
+535,Extreme tiredness,General,Medicine
+536,Fainting,General,Medicine
+537,Fainting episode,General,Medicine
+538,Fatigue,General,Medicine
+539,Feeling unwell,General,Medicine
+540,Fever,General,Medicine
+541,Fever after travel,General,Medicine
+542,Fever at night,General,Medicine
+543,Fever for 2 days,General,Medicine
+544,Fever in child,General,Medicine
+545,Fever with burning urine,General,Medicine
+546,Fever with chills,General,Medicine
+547,Fever with cough,General,Medicine
+548,Fever with loose motion,General,Medicine
+549,Fever with vomiting,General,Medicine
+550,Follow-up visit,General,Medicine
+551,Forgetfulness,General,Medicine
+552,General check-up,General,Medicine
+553,Health check-up,General,Medicine
+554,Heat stroke,General,Medicine
+555,High fever,General,Medicine
+556,Lab report review,General,Medicine
+557,Light-headedness,General,Medicine
+558,Low energy,General,Medicine
+559,Low-grade fever,General,Medicine
+560,Malaria symptoms,General,Medicine
+561,Memory problems,General,Medicine
+562,Mouth ulcers with fever,General,Medicine
+563,Night sweats,General,Medicine
+564,Pale skin,General,Medicine
+565,Poor concentration,General,Medicine
+566,Post-viral weakness,General,Medicine
+567,Prescription renewal,General,Medicine
+568,Puffy face,General,Medicine
+569,Report review,General,Medicine
+570,Scald injury,General,Medicine
+571,Snake bite,General,Medicine
+572,Suspected dengue,General,Medicine
+573,Suspected typhoid,General,Medicine
+574,Swelling all over,General,Medicine
+575,Swollen ankles,General,Medicine
+576,Swollen feet,General,Medicine
+577,Swollen lymph nodes,General,Medicine
+578,Travel health advice,General,Medicine
+579,Typhoid symptoms,General,Medicine
+580,Unexplained weight loss,General,Medicine
+581,Vaccination advice,General,Medicine
+582,Viral fever,General,Medicine
+583,Weakness,General,Medicine
+584,Weight loss,General,Medicine
+585,X-ray report review,General,Medicine
+586,BP check,Heart,Cardiology
+587,BP fluctuation,Heart,Cardiology
+588,BP follow-up,Heart,Cardiology
+589,Chest discomfort,Heart,Cardiology
+590,Chest heaviness,Heart,Cardiology
+591,Chest pain,Heart,Cardiology
+592,Chest pain at rest,Heart,Cardiology
+593,Chest pain for 2 days,Heart,Cardiology
+594,Chest pain on exertion,Heart,Cardiology
+595,Chest pain since last night,Heart,Cardiology
+596,Chest pain since morning,Heart,Cardiology
+597,Chest pain while walking,Heart,Cardiology
+598,Chest pressure,Heart,Cardiology
+599,Cholesterol check,Heart,Cardiology
+600,ECG advice,Heart,Cardiology
+601,ECG review,Heart,Cardiology
+602,Echo report review,Heart,Cardiology
+603,Fainting with palpitations,Heart,Cardiology
+604,Headache with high BP,Heart,Cardiology
+605,Heart failure follow-up,Heart,Cardiology
+606,High blood pressure,Heart,Cardiology
+607,High cholesterol,Heart,Cardiology
+608,Leg heaviness,Heart,Cardiology
+609,Leg pain on walking,Heart,Cardiology
+610,Low blood pressure,Heart,Cardiology
+611,Pain spreading to left arm,Heart,Cardiology
+612,Palpitations,Heart,Cardiology
+613,Post-bypass follow-up,Heart,Cardiology
+614,Post-heart attack follow-up,Heart,Cardiology
+615,Pre-surgery cardiac check,Heart,Cardiology
+616,Racing heart,Heart,Cardiology
+617,Sharp chest pain,Heart,Cardiology
+618,Slow heartbeat,Heart,Cardiology
+619,Swollen feet in evening,Heart,Cardiology
+620,Swollen legs,Heart,Cardiology
+621,Tiredness on walking,Heart,Cardiology
+622,Varicose veins,Heart,Cardiology
+623,Vein swelling,Heart,Cardiology
+624,Addiction advice,Mental Health,Psychiatry
+625,Anxiety,Mental Health,Psychiatry
+626,Autism concerns,Mental Health,Psychiatry
+627,Bedwetting in child,Mental Health,Psychiatry
+628,Burnout,Mental Health,Psychiatry
+629,Child behavior problem,Mental Health,Psychiatry
+630,Child not listening,Mental Health,Psychiatry
+631,Concentration problem in child,Mental Health,Psychiatry
+632,Constant worry,Mental Health,Psychiatry
+633,Depression symptoms,Mental Health,Psychiatry
+634,Difficulty falling asleep,Mental Health,Psychiatry
+635,Drug use concerns,Mental Health,Psychiatry
+636,Fear of crowds,Mental Health,Psychiatry
+637,Gaming addiction,Mental Health,Psychiatry
+638,Grief,Mental Health,Psychiatry
+639,Hearing voices,Mental Health,Psychiatry
+640,Hyperactive child,Mental Health,Psychiatry
+641,Insomnia,Mental Health,Psychiatry
+642,Irritability,Mental Health,Psychiatry
+643,Loneliness,Mental Health,Psychiatry
+644,Low self-esteem,Mental Health,Psychiatry
+645,Mobile addiction,Mental Health,Psychiatry
+646,Mood swings,Mental Health,Psychiatry
+647,Nervousness,Mental Health,Psychiatry
+648,Panic attacks,Mental Health,Psychiatry
+649,Panic with chest tightness,Mental Health,Psychiatry
+650,Postpartum sadness,Mental Health,Psychiatry
+651,Psychiatry follow-up,Mental Health,Psychiatry
+652,Racing thoughts,Mental Health,Psychiatry
+653,Sadness,Mental Health,Psychiatry
+654,Sleep walking,Mental Health,Psychiatry
+655,Smoking cessation,Mental Health,Psychiatry
+656,Social anxiety,Mental Health,Psychiatry
+657,Speech delay in child,Mental Health,Psychiatry
+658,Stress,Mental Health,Psychiatry
+659,Teen anxiety,Mental Health,Psychiatry
+660,Waking up at night,Mental Health,Psychiatry
+661,Work stress,Mental Health,Psychiatry
+662,Arm weakness,Neurology,Neurology
+663,Back of head pain,Neurology,Neurology
+664,Blackouts,Neurology,Neurology
+665,Burning feet,Neurology,Neurology
+666,Cluster headache,Neurology,Neurology
+667,Difficulty speaking,Neurology,Neurology
+668,Difficulty walking,Neurology,Neurology
+669,Epilepsy follow-up,Neurology,Neurology
+670,Facial numbness,Neurology,Neurology
+671,Facial weakness,Neurology,Neurology
+672,Fits,Neurology,Neurology
+673,Forgetting names,Neurology,Neurology
+674,Head injury,Neurology,Neurology
+675,Headache,Neurology,Neurology
+676,Headache after injury,Neurology,Neurology
+677,Headache behind eyes,Neurology,Neurology
+678,Headache for 2 days,Neurology,Neurology
+679,Headache on one side,Neurology,Neurology
+680,Headache since morning,Neurology,Neurology
+681,Headache with fever,Neurology,Neurology
+682,Loss of consciousness,Neurology,Neurology
+683,Memory loss,Neurology,Neurology
+684,Migraine,Neurology,Neurology
+685,Mild headache,Neurology,Neurology
+686,Morning headache,Neurology,Neurology
+687,Muscle cramps,Neurology,Neurology
+688,Muscle twitching,Neurology,Neurology
+689,Neck pain with headache,Neurology,Neurology
+690,Nerve pain,Neurology,Neurology
+691,Neuropathy follow-up,Neurology,Neurology
+692,Numb toes,Neurology,Neurology
+693,Numbness,Neurology,Neurology
+694,Numbness in one side,Neurology,Neurology
+695,Parkinson's follow-up,Neurology,Neurology
+696,Restless legs,Neurology,Neurology
+697,Seizure,Neurology,Neurology
+698,Severe headache,Neurology,Neurology
+699,Shooting leg pain,Neurology,Neurology
+700,Slurred speech,Neurology,Neurology
+701,Stroke follow-up,Neurology,Neurology
+702,Stroke symptoms,Neurology,Neurology
+703,Sudden severe headache,Neurology,Neurology
+704,Temple pain,Neurology,Neurology
+705,Tension headache,Neurology,Neurology
+706,Tingling in feet,Neurology,Neurology
+707,Tingling in hands,Neurology,Neurology
+708,Tinnitus with dizziness,Neurology,Neurology
+709,Unsteady walking,Neurology,Neurology
+710,Weakness in one side,Neurology,Neurology
+711,Allergic cough,Respiratory,Chest & Respiratory
+712,Allergic rhinitis,Respiratory,Chest & Respiratory
+713,Asthma attack,Respiratory,Chest & Respiratory
+714,Asthma check-up,Respiratory,Chest & Respiratory
+715,Asthma follow-up,Respiratory,Chest & Respiratory
+716,Barking cough,Respiratory,Chest & Respiratory
+717,Breathlessness at night,Respiratory,Chest & Respiratory
+718,Breathlessness at rest,Respiratory,Chest & Respiratory
+719,Breathlessness for 3 days,Respiratory,Chest & Respiratory
+720,Breathlessness on walking,Respiratory,Chest & Respiratory
+721,Breathlessness since yesterday,Respiratory,Chest & Respiratory
+722,Bronchitis symptoms,Respiratory,Chest & Respiratory
+723,Cough after cold,Respiratory,Chest & Respiratory
+724,Cough for 2 days,Respiratory,Chest & Respiratory
+725,Cough for 2 weeks,Respiratory,Chest & Respiratory
+726,Cough for a month,Respiratory,Chest & Respiratory
+727,Cough in child,Respiratory,Chest & Respiratory
+728,Cough since last night,Respiratory,Chest & Respiratory
+729,Cough since morning,Respiratory,Chest & Respiratory
+730,Cough while lying down,Respiratory,Chest & Respiratory
+731,Cough with blood,Respiratory,Chest & Respiratory
+732,Dry cough,Respiratory,Chest & Respiratory
+733,Frequent sneezing,Respiratory,Chest & Respiratory
+734,Hiccups,Respiratory,Chest & Respiratory
+735,Lung check-up,Respiratory,Chest & Respiratory
+736,Oxygen level low,Respiratory,Chest & Respiratory
+737,Pauses in breathing at night,Respiratory,Chest & Respiratory
+738,Persistent cough,Respiratory,Chest & Respiratory
+739,Pollen allergy,Respiratory,Chest & Respiratory
+740,Rapid breathing,Respiratory,Chest & Respiratory
+741,Seasonal allergy,Respiratory,Chest & Respiratory
+742,Shortness of breath,Respiratory,Chest & Respiratory
+743,Smoker's cough,Respiratory,Chest & Respiratory
+744,Snoring,Respiratory,Chest & Respiratory
+745,Spirometry advice,Respiratory,Chest & Respiratory
+746,Suspected tuberculosis,Respiratory,Chest & Respiratory
+747,TB symptoms,Respiratory,Chest & Respiratory
+748,Wet cough,Respiratory,Chest & Respiratory
+749,Wheezing,Respiratory,Chest & Respiratory
+750,Whooping cough,Respiratory,Chest & Respiratory
+751,Abscess,Skin,Dermatology
+752,Acne,Skin,Dermatology
+753,Acne scars,Skin,Dermatology
+754,Athlete's foot,Skin,Dermatology
+755,Bald patches,Skin,Dermatology
+756,Blackheads,Skin,Dermatology
+757,Blisters,Skin,Dermatology
+758,Body odor,Skin,Dermatology
+759,Burn scar,Skin,Dermatology
+760,Contact allergy,Skin,Dermatology
+761,Cracked heels,Skin,Dermatology
+762,Cracked skin,Skin,Dermatology
+763,Cut wound,Skin,Dermatology
+764,Cyst on skin,Skin,Dermatology
+765,Dandruff,Skin,Dermatology
+766,Dark circles,Skin,Dermatology
+767,Dark patches,Skin,Dermatology
+768,Diaper rash,Skin,Dermatology
+769,Dry itchy skin,Skin,Dermatology
+770,Dry lips,Skin,Dermatology
+771,Dry nails,Skin,Dermatology
+772,Dry skin,Skin,Dermatology
+773,Eczema,Skin,Dermatology
+774,Excess hair fall,Skin,Dermatology
+775,Fatty lump,Skin,Dermatology
+776,Foot odor,Skin,Dermatology
+777,Hair fall,Skin,Dermatology
+778,Hair thinning,Skin,Dermatology
+779,Heat rash,Skin,Dermatology
+780,Herpes sores,Skin,Dermatology
+781,Infected wound,Skin,Dermatology
+782,Ingrown nail,Skin,Dermatology
+783,Itching,Skin,Dermatology
+784,Itching at night,Skin,Dermatology
+785,Itching for a month,Skin,Dermatology
+786,Itching on armpits,Skin,Dermatology
+787,Itching on arms,Skin,Dermatology
+788,Itching on back,Skin,Dermatology
+789,Itching on chest,Skin,Dermatology
+790,Itching on eyelids,Skin,Dermatology
+791,Itching on face,Skin,Dermatology
+792,Itching on hands,Skin,Dermatology
+793,Itching on legs,Skin,Dermatology
+794,Itching on scalp,Skin,Dermatology
+795,Itching since last night,Skin,Dermatology
+796,Itchy rash after medicine,Skin,Dermatology
+797,Itchy scalp,Skin,Dermatology
+798,Itchy skin,Skin,Dermatology
+799,Keloid,Skin,Dermatology
+800,Measles rash,Skin,Dermatology
+801,Mole bleeding,Skin,Dermatology
+802,Moles,Skin,Dermatology
+803,Nail fungus,Skin,Dermatology
+804,Oily skin,Skin,Dermatology
+805,Open pores,Skin,Dermatology
+806,Pigmentation,Skin,Dermatology
+807,Psoriasis,Skin,Dermatology
+808,Psoriasis follow-up,Skin,Dermatology
+809,Pus-filled pimple,Skin,Dermatology
+810,Rash,Skin,Dermatology
+811,Rash in child,Skin,Dermatology
+812,Rash on armpits,Skin,Dermatology
+813,Rash on back,Skin,Dermatology
+814,Rash on chest,Skin,Dermatology
+815,Rash on eyelids,Skin,Dermatology
+816,Rash on face,Skin,Dermatology
+817,Rash on feet,Skin,Dermatology
+818,Rash on hands,Skin,Dermatology
+819,Rash on legs,Skin,Dermatology
+820,Rash on lips,Skin,Dermatology
+821,Rash on nails,Skin,Dermatology
+822,Rash on neck,Skin,Dermatology
+823,Rash with fever,Skin,Dermatology
+824,Red patches,Skin,Dermatology
+825,Red rash,Skin,Dermatology
+826,Ringworm,Skin,Dermatology
+827,Scar treatment,Skin,Dermatology
+828,Severe acne,Skin,Dermatology
+829,Shingles,Skin,Dermatology
+830,Skin allergy,Skin,Dermatology
+831,Skin discoloration,Skin,Dermatology
+832,Skin infection,Skin,Dermatology
+833,Skin lightening,Skin,Dermatology
+834,Skin peeling after fever,Skin,Dermatology
+835,Skin rash for 2 days,Skin,Dermatology
+836,Skin rash for 2 weeks,Skin,Dermatology
+837,Skin rash for a month,Skin,Dermatology
+838,Skin rash for a week,Skin,Dermatology
+839,Skin rash since last night,Skin,Dermatology
+840,Skin rash since yesterday,Skin,Dermatology
+841,Skin tightness,Skin,Dermatology
+842,Skin ulcer,Skin,Dermatology
+843,Stretch marks,Skin,Dermatology
+844,Sunburn,Skin,Dermatology
+845,Swollen eyelid,Skin,Dermatology
+846,Vitiligo,Skin,Dermatology
+847,Wound not healing,Skin,Dermatology
+848,Abscess drainage,Surgery,General Surgery
+849,Appendix surgery follow-up,Surgery,General Surgery
+850,Biopsy report review,Surgery,General Surgery
+851,Breast surgery follow-up,Surgery,General Surgery
+852,Cancer follow-up,Surgery,General Surgery
+853,Chemotherapy follow-up,Surgery,General Surgery
+854,Cleft lip follow-up,Surgery,General Surgery
+855,Crush injury,Surgery,General Surgery
+856,Cyst removal,Surgery,General Surgery
+857,Deep wound,Surgery,General Surgery
+858,Dog bite wound,Surgery,General Surgery
+859,Finger injury,Surgery,General Surgery
+860,Foreign body in skin,Surgery,General Surgery
+861,Gallbladder surgery advice,Surgery,General Surgery
+862,Growing lump,Surgery,General Surgery
+863,Hernia pain after lifting,Surgery,General Surgery
+864,Hernia surgery advice,Surgery,General Surgery
+865,Infected cut,Surgery,General Surgery
+866,Lipoma,Surgery,General Surgery
+867,Lump in armpit,Surgery,General Surgery
+868,Lump in neck,Surgery,General Surgery
+869,Lump in scrotum,Surgery,General Surgery
+870,Lump on back,Surgery,General Surgery
+871,Lump on head,Surgery,General Surgery
+872,Mouth cancer screening,Surgery,General Surgery
+873,Mouth lump,Surgery,General Surgery
+874,Nail injury,Surgery,General Surgery
+875,Neck lump in child,Surgery,General Surgery
+876,Painful lump,Surgery,General Surgery
+877,Post-surgery fever,Surgery,General Surgery
+878,Post-surgery wound infection,Surgery,General Surgery
+879,Radiotherapy follow-up,Surgery,General Surgery
+880,Road accident wound,Surgery,General Surgery
+881,Splinter removal,Surgery,General Surgery
+882,Stitch removal,Surgery,General Surgery
+883,Surgery advice,Surgery,General Surgery
+884,Swollen scar,Surgery,General Surgery
+885,Throat lump,Surgery,General Surgery
+886,Thyroid surgery follow-up,Surgery,General Surgery
+887,Varicose vein surgery advice,Surgery,General Surgery
+888,Wound dressing,Surgery,General Surgery
+889,Back pain with urine problem,Urinary,Urology
+890,Bedwetting,Urinary,Urology
+891,Blood in urine,Urinary,Urology
+892,Burning urine,Urinary,Urology
+893,Burning urine for 2 days,Urinary,Urology
+894,Burning urine for 3 days,Urinary,Urology
+895,Burning urine for a week,Urinary,Urology
+896,Catheter problem,Urinary,Urology
+897,Circumcision advice,Urinary,Urology
+898,Cloudy urine,Urinary,Urology
+899,Dialysis follow-up,Urinary,Urology
+900,Dribbling urine,Urinary,Urology
+901,Erectile problem,Urinary,Urology
+902,Foreskin problem,Urinary,Urology
+903,Foul smelling urine,Urinary,Urology
+904,Frequent urination,Urinary,Urology
+905,Frequent urination at night,Urinary,Urology
+906,Genital rash,Urinary,Urology
+907,Genital sores,Urinary,Urology
+908,High creatinine,Urinary,Urology
+909,Itching in private area,Urinary,Urology
+910,Kidney check-up,Urinary,Urology
+911,Kidney function review,Urinary,Urology
+912,Kidney stone follow-up,Urinary,Urology
+913,Kidney stone pain,Urinary,Urology
+914,Kidney transplant follow-up,Urinary,Urology
+915,Male infertility check,Urinary,Urology
+916,Pain in flank,Urinary,Urology
+917,Painful testicle,Urinary,Urology
+918,Penile discharge,Urinary,Urology
+919,Penile pain,Urinary,Urology
+920,Premature ejaculation,Urinary,Urology
+921,Prostate problem,Urinary,Urology
+922,Protein in urine,Urinary,Urology
+923,Semen analysis review,Urinary,Urology
+924,Swelling in scrotum,Urinary,Urology
+925,Testicular lump,Urinary,Urology
+926,Testicular swelling,Urinary,Urology
+927,UTI in child,Urinary,Urology
+928,UTI symptoms,Urinary,Urology
+929,Urgent urination,Urinary,Urology
+930,Urinary infection,Urinary,Urology
+931,Urine leakage,Urinary,Urology
+932,Urine retention,Urinary,Urology
+933,Weak urine flow,Urinary,Urology
+934,Bleeding after menopause,Women's Health,Gynecology
+935,Bleeding in early pregnancy,Women's Health,Gynecology
+936,Breast engorgement,Women's Health,Gynecology
+937,Breast lump,Women's Health,Gynecology
+938,Breast pain,Women's Health,Gynecology
+939,Breast swelling,Women's Health,Gynecology
+940,Breastfeeding problem,Women's Health,Gynecology
+941,Cervical screening,Women's Health,Gynecology
+942,Cesarean follow-up,Women's Health,Gynecology
+943,Cesarean wound care,Women's Health,Gynecology
+944,Contraception advice,Women's Health,Gynecology
+945,Delayed period,Women's Health,Gynecology
+946,Early pregnancy check,Women's Health,Gynecology
+947,Emergency contraception,Women's Health,Gynecology
+948,Fertility advice,Women's Health,Gynecology
+949,Fibroid symptoms,Women's Health,Gynecology
+950,First trimester check,Women's Health,Gynecology
+951,Foul vaginal odor,Women's Health,Gynecology
+952,Frequent periods,Women's Health,Gynecology
+953,Hot flashes,Women's Health,Gynecology
+954,IUD check,Women's Health,Gynecology
+955,Infertility check,Women's Health,Gynecology
+956,Labor pain,Women's Health,Gynecology
+957,Late period,Women's Health,Gynecology
+958,Light periods,Women's Health,Gynecology
+959,Low milk supply,Women's Health,Gynecology
+960,Lower abdominal pain in women,Women's Health,Gynecology
+961,Mastitis symptoms,Women's Health,Gynecology
+962,Menopause symptoms,Women's Health,Gynecology
+963,Miscarriage symptoms,Women's Health,Gynecology
+964,Mood swings before periods,Women's Health,Gynecology
+965,PCOS follow-up,Women's Health,Gynecology
+966,PCOS symptoms,Women's Health,Gynecology
+967,PMS symptoms,Women's Health,Gynecology
+968,Painful periods,Women's Health,Gynecology
+969,Pelvic pain,Women's Health,Gynecology
+970,Period cramps,Women's Health,Gynecology
+971,Postnatal bleeding,Women's Health,Gynecology
+972,Postnatal check,Women's Health,Gynecology
+973,Postpartum pain,Women's Health,Gynecology
+974,Pregnancy back pain,Women's Health,Gynecology
+975,Pregnancy bleeding,Women's Health,Gynecology
+976,Pregnancy check-up,Women's Health,Gynecology
+977,Pregnancy cold,Women's Health,Gynecology
+978,Pregnancy cough,Women's Health,Gynecology
+979,Pregnancy dizziness,Women's Health,Gynecology
+980,Pregnancy fever,Women's Health,Gynecology
+981,Pregnancy headache,Women's Health,Gynecology
+982,Pregnancy heartburn,Women's Health,Gynecology
+983,Pregnancy itching,Women's Health,Gynecology
+984,Pregnancy leg cramps,Women's Health,Gynecology
+985,Pregnancy swelling,Women's Health,Gynecology
+986,Pregnancy test advice,Women's Health,Gynecology
+987,Pregnancy vomiting,Women's Health,Gynecology
+988,Pregnancy weight concerns,Women's Health,Gynecology
+989,Reduced baby movement,Women's Health,Gynecology
+990,Second trimester check,Women's Health,Gynecology
+991,Spotting,Women's Health,Gynecology
+992,Suspected pregnancy,Women's Health,Gynecology
+993,Third trimester check,Women's Health,Gynecology
+994,Thyroid in pregnancy,Women's Health,Gynecology
+995,Vaginal discharge,Women's Health,Gynecology
+996,Vaginal dryness,Women's Health,Gynecology
+997,Vaginal infection,Women's Health,Gynecology
+998,Vaginal itching,Women's Health,Gynecology
+999,Water breaking,Women's Health,Gynecology
+1000,White discharge,Women's Health,Gynecology
